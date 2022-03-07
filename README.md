@@ -4,12 +4,20 @@ This repository is a collection of scripts for changing Windows10 settings.
 
 These are for program development and experiment use only.
 
+## Tamper Protection
+
+!! Constant use is not recommended. !!
+
+Disable Tamper Protection to run scripts.
+
+![](./Images/disable_tamper_protection.png)
+
 ## Scripts
 
 Scripts are written for each configuration or category.
 
 - [x] Disable Firewall
-- [ ] Disable Windows Defender
+- [ ] Disable Windows Defender Realtime Protection
 - [ ] Display file extentions and hidden files
 - [ ] Disable SmartScreen
 - [ ] Disable Windows Update

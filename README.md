@@ -17,7 +17,7 @@ Disable Tamper Protection to run scripts.
 Scripts are written for each configuration or category.
 
 - [x] Disable Firewall
-- [ ] Disable Windows Defender Realtime Protection
+- [x] Disable Windows Defender Realtime Protection
 - [ ] Display file extentions and hidden files
 - [ ] Disable SmartScreen
 - [ ] Disable Windows Update

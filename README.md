@@ -18,8 +18,8 @@ Scripts are written for each configuration or category.
 
 - [x] Disable Firewall
 - [ ] Disable Windows Defender Realtime Protection
-- [ ] Display file extentions and hidden files
-- [ ] Disable SmartScreen
+- [x] Display file extentions and hidden files
+- [x] Disable SmartScreen
 - [ ] Disable Windows Update
   - [ ] Disable Windows Update Schedule
 - [ ] Disable Update and Shutdown

@@ -20,8 +20,8 @@ Scripts are written for each configuration or category.
 - [x] Disable Windows Defender Realtime Protection
 - [x] Display file extentions and hidden files
 - [x] Disable SmartScreen
-- [ ] Disable Windows Update
-  - [ ] Disable Windows Update Schedule
+- [x] Disable Windows Update
+  - [x] Disable Windows Update Schedule
 - [ ] Disable Update and Shutdown
 - [ ] Disable EdgeSwipe
 - [ ] Disable HelpHint

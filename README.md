@@ -22,7 +22,7 @@ Scripts are written for each configuration or category.
 - [x] Disable SmartScreen
 - [x] Disable Windows Update
   - [x] Disable Windows Update Schedule
-- [ ] Disable Update and Shutdown
+- [x] Disable Update and Shutdown
 - [ ] Disable EdgeSwipe
 - [ ] Disable HelpHint
 - [ ] Set HighPerformance mode

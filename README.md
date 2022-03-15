@@ -23,8 +23,8 @@ Scripts are written for each configuration or category.
 - [x] Disable Windows Update
   - [x] Disable Windows Update Schedule
 - [x] Disable Update and Shutdown
-- [ ] Disable EdgeSwipe
-- [ ] Disable HelpHint
+- [x] Disable EdgeSwipe
+- [x] Disable HelpHint
 - [ ] Set HighPerformance mode
 - [ ] Disable request password login when wake up from sleep mode
 - [ ] Allow login without password

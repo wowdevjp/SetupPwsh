@@ -36,4 +36,4 @@ Scripts are written for each configuration or category.
 - [ ] Disable system sound
 - [ ] Disable Automatic Window Arrangement
 - [ ] Set the desktop background to #000000
-- [ ] Hide Trash on the desktop
+- [x] Hide Trash on the desktop

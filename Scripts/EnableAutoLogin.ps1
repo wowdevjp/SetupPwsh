@@ -16,5 +16,5 @@ TrySetItemProperty -Path $Path -Name AutoAdminLogon -PropertyType String -Value 
 TrySetItemProperty -Path $Path -Name DefaultUserName -PropertyType String -Value $Username
 TrySetItemProperty -Path $Path -Name DefaultPassword -PropertyType String -Value $Password
 TrySetItemProperty -Path $Path -Name ForceAutoLogon -PropertyType String -Value 1
-TrySetItemProperty -Path $Path -Name DefaultDomainName -PropertyType String -Value WORDGROUP
+TrySetItemProperty -Path $Path -Name DefaultDomainName -PropertyType String -Value WORKGROUP
 TrySetItemProperty -Path $Path -Name IgnoreShiftOverride -PropertyType String -Value 1

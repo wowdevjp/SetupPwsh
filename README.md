@@ -26,8 +26,8 @@ Scripts are written for each configuration or category.
 - [ ] Disable EdgeSwipe
 - [ ] Disable HelpHint
 - [ ] Set HighPerformance mode
-- [ ] Disable request password login when wake up from sleep mode
-- [ ] Allow login without password
+- [x] Disable request password login when wake up from sleep mode
+- [x] Allow login without password
 - [ ] Disable Notification
   - [ ] Toast
   - [ ] Screen Mirroring

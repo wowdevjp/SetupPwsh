@@ -23,8 +23,8 @@ Scripts are written for each configuration or category.
 - [x] Disable Windows Update
   - [x] Disable Windows Update Schedule
 - [x] Disable Update and Shutdown
-- [ ] Disable EdgeSwipe
-- [ ] Disable HelpHint
+- [x] Disable EdgeSwipe
+- [x] Disable HelpHint
 - [ ] Set HighPerformance mode
 - [x] Disable request password login when wake up from sleep mode
 - [x] Allow login without password
@@ -36,4 +36,4 @@ Scripts are written for each configuration or category.
 - [ ] Disable system sound
 - [ ] Disable Automatic Window Arrangement
 - [ ] Set the desktop background to #000000
-- [ ] Hide Trash on the desktop
+- [x] Hide Trash on the desktop

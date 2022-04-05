@@ -28,9 +28,8 @@ Scripts are written for each configuration or category.
 - [ ] Set HighPerformance mode
 - [x] Disable request password login when wake up from sleep mode
 - [x] Allow login without password
-- [ ] Disable Notification
+- [x] Disable Notification
   - [x] Toast
-  - [ ] Screen Mirroring
   - [x] Balloon
   - [x] Hint to use and recommendation
 - [ ] Disable system sound

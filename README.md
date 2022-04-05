@@ -29,10 +29,10 @@ Scripts are written for each configuration or category.
 - [x] Disable request password login when wake up from sleep mode
 - [x] Allow login without password
 - [ ] Disable Notification
-  - [ ] Toast
+  - [x] Toast
   - [ ] Screen Mirroring
-  - [ ] Balloon
-  - [ ] Hint to use and recommendation
+  - [x] Balloon
+  - [x] Hint to use and recommendation
 - [ ] Disable system sound
 - [ ] Disable Automatic Window Arrangement
 - [ ] Set the desktop background to #000000

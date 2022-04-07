@@ -25,7 +25,7 @@ Scripts are written for each configuration or category.
 - [x] Disable Update and Shutdown
 - [x] Disable EdgeSwipe
 - [x] Disable HelpHint
-- [ ] Set HighPerformance mode
+- [x] Set HighPerformance mode
 - [x] Disable request password login when wake up from sleep mode
 - [x] Allow login without password
 - [ ] Disable Notification

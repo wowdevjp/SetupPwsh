@@ -28,11 +28,10 @@ Scripts are written for each configuration or category.
 - [ ] Set HighPerformance mode
 - [x] Disable request password login when wake up from sleep mode
 - [x] Allow login without password
-- [ ] Disable Notification
-  - [ ] Toast
-  - [ ] Screen Mirroring
-  - [ ] Balloon
-  - [ ] Hint to use and recommendation
+- [x] Disable Notification
+  - [x] Toast
+  - [x] Balloon
+  - [x] Hint to use and recommendation
 - [ ] Disable system sound
 - [x] Disable Automatic Window Arrangement
 - [x] Set the desktop background to #000000

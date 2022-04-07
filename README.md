@@ -35,5 +35,5 @@ Scripts are written for each configuration or category.
   - [ ] Hint to use and recommendation
 - [ ] Disable system sound
 - [ ] Disable Automatic Window Arrangement
-- [ ] Set the desktop background to #000000
+- [x] Set the desktop background to #000000
 - [x] Hide Trash on the desktop

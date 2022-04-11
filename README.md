@@ -32,7 +32,6 @@ Scripts are written for each configuration or category.
   - [x] Toast
   - [x] Balloon
   - [x] Hint to use and recommendation
-- [ ] Disable system sound
 - [x] Disable Automatic Window Arrangement
 - [x] Set the desktop background to #000000
 - [x] Hide Trash on the desktop

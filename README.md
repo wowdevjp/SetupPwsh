@@ -35,3 +35,4 @@ Scripts are written for each configuration or category.
 - [x] Disable Automatic Window Arrangement
 - [x] Set the desktop background to #000000
 - [x] Hide Trash on the desktop
+- [x] Install OpenSSH Server (Optional)

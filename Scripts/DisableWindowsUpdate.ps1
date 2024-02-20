@@ -16,3 +16,5 @@ function TrySetItemProperty($Path, $Name, $Value) {
 TrySetItemProperty -Path $Path -Name $ValueNameAUOptions -Value 1
 TrySetItemProperty -Path $Path -Name $ValueNameNoAutoUpdate -Value 1
 TrySetItemProperty -Path $Path -Name $ValueNameNoAUShutdownOption -Value 1
+
+Set-Service -Name "wuauserv" -StartupType Disabled

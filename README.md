@@ -36,3 +36,21 @@ Scripts are written for each configuration or category.
 - [x] Set the desktop background to #000000
 - [x] Hide Trash on the desktop
 - [x] Install OpenSSH Server (Optional)
+
+## Utility
+
+### RestartProcessOnKill.ps1
+
+Re-execute the `-Command` command/application 3 seconds after it is executed.
+
+```shell
+./RestartProcessOnKill.ps1 -Command "~/Desktop/app.exe" -CommandAfterKill "Remove-Item ~/Desktop/example-cache"
+```
+
+Re-execute multiple commands/applications
+
+```shell
+Start-Process -FilePath "powershell.exe" -ArgumentList "C://hoge/hoge/RestartProcessOnKill.ps1 -Command '~/Desktop/app.exe'"
+Start-Process -FilePath "powershell.exe" -ArgumentList "C://hoge/hoge/RestartProcessOnKill.ps1 -Command '~/Desktop/app2.exe'"
+Start-Process -FilePath "powershell.exe" -ArgumentList "C://hoge/hoge/RestartProcessOnKill.ps1 -Command '~/Desktop/app3.exe'"
+```
